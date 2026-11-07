@@ -1,7 +1,9 @@
 *
 !application.fam
+!.clang-format
 !fcalc.c
 !fcalc.png
 !.gitignore
 !images/
 !images/**
+!LICENSE.md
